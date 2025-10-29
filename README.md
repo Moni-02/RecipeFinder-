@@ -134,7 +134,7 @@ https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/cusine_search.png
 https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/chef_page.png
 
 ### 💾 Saved Recipes
-
+https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/saved_recipes.png
 
 ### ⭐ Recommended Recipes
 https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/recomended_recipes.png
