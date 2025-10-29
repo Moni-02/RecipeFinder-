@@ -112,8 +112,36 @@ Explore personalized recommendations based on your searches and interactions.
 Acknowledgements
 
 Spoonacular API
-
 React.js
+Node.js
+
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/home.png
+
+### 🔐 Login Page
+
+https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/login.png
+### 🔍 Search Recipes
+https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/search_recipes%20(1).png
+
+### 🍳 Cuisine Search
+https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/cusine_search.png
+
+### 👨‍🍳 Chef Page
+https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/chef_page.png
+
+### 💾 Saved Recipes
+
+
+### ⭐ Recommended Recipes
+https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/recomended_recipes.png
+
+### 🗓️ Meal Plan Support
+https://github.com/Moni-02/RecipeFinder-/blob/main/screenshots/meal_plan.png
+
 
 Node.js
 
